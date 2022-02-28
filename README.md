@@ -1,7 +1,7 @@
 <h1 align="center"> Conexão no Banco com PHP </h1>
 
 # Resumo do projeto
-Conexão básica no banco de dados
+Conexão básica no banco de dados.
 
 ## :hammer: Funcionalidades do projeto
 
