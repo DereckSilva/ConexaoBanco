@@ -14,3 +14,5 @@ Conexão básica no banco de dados.
 - ``Visual Studio Code``
 - ``Paradigma de orientação a objetos``
 
+## 📁 Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/DereckSilva/ConexaoBanco/tree/master/bancoDados).
