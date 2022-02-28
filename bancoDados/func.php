@@ -102,12 +102,3 @@ class Funcionario extends Banco
     }
   }
 }
-
-try {
-
-  $db = new Funcionario("dereck", "123456", 14457);
-  $db->conectaBanco();
-  $db->selecionaDados();
-} catch (PDOException $e) {
-  echo $e->getMessage();
-}

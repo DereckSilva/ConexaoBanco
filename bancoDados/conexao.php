@@ -32,11 +32,3 @@ class Conexao extends Banco
     }
   }
 }
-
-try {
-  $db = new Conexao("dereck", "123456", "1");
-  $db->conectarBanco();
-  $db->selecionaDados();
-} catch (PDOException $e) {
-  echo $e->getMessage();
-}
