@@ -1,7 +1,7 @@
 <?php
 
 require_once __DIR__ . '/func.php';
-require_once __DIR__ . '/conexao.php';
+require_once __DIR__ . '/geral.php';
 
 try {
 
