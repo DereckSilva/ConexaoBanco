@@ -5,7 +5,7 @@ require_once __DIR__ . '/conexao.php';
 
 try {
 
-  $db = new Funcionario("dereck", "123456", 1);
+  $db = new Funcionario("dereck", "123456", 14457);
   $db->conectaBanco();
   $db->selecionaDados();
 } catch (PDOException $e) {
