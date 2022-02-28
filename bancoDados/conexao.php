@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/banco.php';
+require_once __DIR__ . '/geral.php';
 
 class Conexao extends Banco
 {
