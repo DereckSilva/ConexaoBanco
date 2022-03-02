@@ -13,6 +13,7 @@ Conexão básica no banco de dados.
 - ``MariaDB``
 - ``Visual Studio Code``
 - ``Paradigma de orientação a objetos``
+- ``Utilização da classe PDO para conexão com o banco``
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/DereckSilva/ConexaoBanco/tree/master/bancoDados).
